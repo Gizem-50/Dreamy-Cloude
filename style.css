@@ -13,6 +13,7 @@ body {
 .menu-nav { 
   display: flex;
   justify-content: center;
+  flex-direction: row;
 }
 .menu-nav li {
   margin-right: 10px;
