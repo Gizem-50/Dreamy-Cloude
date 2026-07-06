@@ -10,7 +10,10 @@ body {
   margin: 0;
   text-align: center;
 } 
-.menu-nav { display: flex;} 
+.menu-nav { 
+  display: flex;
+  justify-content: center;
+}
 .menu-nav li {
   margin-right: 10px;
 }
