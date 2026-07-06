@@ -28,7 +28,7 @@ section {
 h2 {
   color: #ff6b8b;
   border-bottom: 2px solid;
-  #ffccd7;
+  border-color: #ffccd7;
   padding-bottom: 8px;
 }
 ul {
