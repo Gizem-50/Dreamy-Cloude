@@ -18,3 +18,27 @@ body {
   color: #db7093
   font-size: 1.2em;
 }
+section {
+  background-color: #f9f0f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+h2 {
+  color: #ff6b8b;
+  border-bottom: 2px solid;
+  #ffccd7;
+  padding-bottom: 8px;
+}
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+li {
+  padding: 8px 0;
+  border-bottom: 1px solid #eee;
+}
+li:last-child {
+  border-bottom: none;
+}
